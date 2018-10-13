@@ -1,0 +1,10 @@
+# Miscellaneous
+From primitive to wrapper    new Wrapper(primitive)
+                             new 
+From wrapper to primitive    typeValue()
+From primitive to String     Wrapper.toString(primitive)
+                             String.valueOf(primitive)
+From String to primitive     Wrapper.parseType(String)
+From String to Wrapper       new Wrapper(String)
+                             Wrapper.valueOf(String)
+From Wrapper to String       toString()
